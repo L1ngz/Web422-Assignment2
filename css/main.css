@@ -1,0 +1,8 @@
+#navbarSupportedContent {
+   position: absolute;
+   right : 10px
+}
+
+button { 
+   padding-left: 10px;
+}
